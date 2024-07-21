@@ -1,2 +1,6 @@
 @import './reset.css';
 
+.social {
+    height: 30px;
+    width: 30px;
+}
